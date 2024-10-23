@@ -1,16 +1,18 @@
 module github.com/taylormonacelli/bigspear
 
-go 1.20
+go 1.21
+
+toolchain go1.23.2
 
 require (
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.97.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.184.0
 	github.com/k0kubun/pp v3.0.1+incompatible
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.15.0
 )
 
 require (
-	github.com/aws/smithy-go v1.13.5 // indirect
+	github.com/aws/smithy-go v1.22.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
