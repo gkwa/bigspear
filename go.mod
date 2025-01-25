@@ -5,14 +5,14 @@ go 1.21
 toolchain go1.23.5
 
 require (
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.201.1
 	github.com/k0kubun/pp v3.0.1+incompatible
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
 )
 
 require (
-	github.com/aws/smithy-go v1.22.1 // indirect
+	github.com/aws/smithy-go v1.22.2 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
