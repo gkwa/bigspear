@@ -2,7 +2,7 @@ module github.com/taylormonacelli/bigspear
 
 go 1.22
 
-toolchain go1.24.6
+toolchain go1.25.0
 
 require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.241.0
