@@ -5,7 +5,7 @@ go 1.22
 toolchain go1.25.0
 
 require (
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.244.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.245.1
 	github.com/k0kubun/pp v3.0.1+incompatible
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.20.1
