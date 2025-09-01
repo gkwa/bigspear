@@ -155,6 +155,8 @@ github.com/aws/aws-sdk-go-v2/service/ec2 v1.245.1 h1:h+f7uoS6CX5l7nF5gxBygynKHRo
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.245.1/go.mod h1:EeWmteKqZjaMj45MUmPET1SisFI+HkqWIRQoyjMivcc=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.245.2 h1:P94OfRObDwjklbvdJTGuRZXeGYF7Bv5NNUo+I628kKQ=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.245.2/go.mod h1:D8Wb993SJuFQ10Lp95Vod8VTpYjJz4v0LeW4rEI471c=
+github.com/aws/aws-sdk-go-v2/service/ec2 v1.249.0 h1:1wn3h1PKTKQ9tg7bzfm4x1iqKYsLY2qfmV4SsDmakkI=
+github.com/aws/aws-sdk-go-v2/service/ec2 v1.249.0/go.mod h1:SmMqzfS4HVsOD58lwLZ79oxF58f8zVe5YdK3o+/o1Ck=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.27/go.mod h1:EOwBD4J4S5qYszS5/3DpkejfuK+Z5/1uzICfPaZLtqw=
 github.com/aws/smithy-go v1.13.5 h1:hgz0X/DX0dGqTYpGALqXJoRKRj5oQ7150i5FdTePzO8=
 github.com/aws/smithy-go v1.13.5/go.mod h1:Tg+OJXh4MB2R/uN61Ko2f6hTZwB/ZYGOtib8J3gBHzA=
@@ -168,6 +170,8 @@ github.com/aws/smithy-go v1.22.4 h1:uqXzVZNuNexwc/xrh6Tb56u89WDlJY6HS+KC0S4QSjw=
 github.com/aws/smithy-go v1.22.4/go.mod h1:t1ufH5HMublsJYulve2RKmHDC15xu1f26kHCp/HgceI=
 github.com/aws/smithy-go v1.22.5 h1:P9ATCXPMb2mPjYBgueqJNCA5S9UfktsW0tTxi+a7eqw=
 github.com/aws/smithy-go v1.22.5/go.mod h1:t1ufH5HMublsJYulve2RKmHDC15xu1f26kHCp/HgceI=
+github.com/aws/smithy-go v1.23.0 h1:8n6I3gXzWJB2DxBDnfxgBaSX6oe0d/t10qGz7OKqMCE=
+github.com/aws/smithy-go v1.23.0/go.mod h1:t1ufH5HMublsJYulve2RKmHDC15xu1f26kHCp/HgceI=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
